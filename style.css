@@ -1,0 +1,45 @@
+hr {
+border: 2px solid cyan;
+}
+
+h1 {
+text-align: center;
+background-color: navy;
+color: white;
+font-family: Georgia;
+}
+
+h1:hover {
+text-align: center;
+background-color: red;
+color: black;
+font-family: Algerian;
+}
+
+.p1 {
+text-align: center;
+}
+
+.p2 {
+text-align: justify;
+}
+
+table, th, tr {
+margin-left: auto;
+margin-right: auto;
+border: 2px solid black;
+}
+
+body {
+background-color: peachpuff;
+}
+
+th:hover {
+background-color: cyan;
+}
+
+img {
+border: 3px hidden;
+border-radius: 20px;
+padding: 2px 2px 2px 2px;
+}
